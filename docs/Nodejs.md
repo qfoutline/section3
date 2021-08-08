@@ -7,8 +7,6 @@ NodeJS是Ryan Dahl于2009年推出的基于V8 JavaScript引擎，使用事件驱
 * 2010年年底，Node获得云计算服务商Joyent资助，创始人Ryan Dahl加入Joyent全职负责Node的发展。
 * 2011年7月，Node在微软的支持下发布Windows版本。
 
-[内置模块](./docs/内置模块.md)
-
 ## 复习二阶段内容
 
 ### http服务器
