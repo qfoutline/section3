@@ -13,5 +13,6 @@
 * [Vue模块系统](./vue/Vue模块系统.md)
 * [Vue路由](./vue/VueRouter.md)
 * [VueX](./vue/VueX.md)
+* [Vue扩展](./vue/Vue扩展.md)
 * [Vue项目](./vue/项目说明.md)
 
