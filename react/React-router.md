@@ -117,12 +117,8 @@ React-router4（以下简称RR4）遵循React的设计万物皆组件的理念�
 * to(Object):携带参数跳转到指定路径（同Redirect）
 >跳转时携带详细信息（比如这是个支付跳转，需要把商品的价格等信息传递过去）
 
-```jsx
-    <Link to={{
-      pathname: '/pay',
-      search: '?id=123456',
-      state: { price: 998 }
-    }}></Link>
+```js
+    <Link to={{ pathname: '/pay', search: '?id=123456', state: { price: 998 }}}></Link>
 ```
 
 * replace: bool
